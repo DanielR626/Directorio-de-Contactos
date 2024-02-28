@@ -1,0 +1,7 @@
+com\mycompany\agendaweb\JakartaRestConfiguration.class
+com\mycompany\agendaweb\mundo\Contacto.class
+com\mycompany\agendaweb\mundo\Nodo.class
+com\mycompany\agendaweb\mundo\ArbolContactos.class
+com\mycompany\agendaweb\mundo\GestorPersistencia.class
+com\mycompany\agendaweb\servlets\SvAgenda.class
+com\mycompany\agendaweb\resources\JakartaEE8Resource.class
